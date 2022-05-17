@@ -1,8 +1,10 @@
 import React from 'react'
+import Header from './Header'
 
 const Searchbook = () => {
   return (
     <div>
+        <Header />
          <div>
          <div className="container">
     <div className="row">
